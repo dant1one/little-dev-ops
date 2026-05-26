@@ -1,5 +1,5 @@
 #!/bin/bash
-'''
+: '
 Here u can see the system stats like CPU, Memory, Swap, Disk usage and top processes by CPU and Memory usage.
 This script is useful for monitoring the server performance and identifying any potential issues.
 main commands used in this script are:
@@ -9,7 +9,7 @@ main commands used in this script are:
 - ps: to get the top processes by CPU and Memory usage
 - awk: to format the output of the commands
 To run this script, save it to a file (e.g., server-stats.sh), give it execute permissions (chmod +x server-stats.sh), and then execute it (./server-stats.sh).
-'''
+'
 
 clear
 
